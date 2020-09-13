@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5h84m8M1+48XaTKUXivjOa+sr4HxYMaTdEkgl1L7A86UcwrYhUo5/e8gWZvcUi1l1xiOm6CbqvA43rJoikrMPg==",
+  "success": true,
+  "projectFilePath": "E:\\AllCodeProject\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0-preview.8.20407.11\\microsoft.netcore.platforms.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\syncfusion.compression.net.core\\18.2.0.57\\syncfusion.compression.net.core.18.2.0.57.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\syncfusion.licensing\\18.2.0.57\\syncfusion.licensing.18.2.0.57.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\syncfusion.xlsio.net.core\\18.2.0.57\\syncfusion.xlsio.net.core.18.2.0.57.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.8.20407.11\\system.runtime.compilerservices.unsafe.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0-preview.8.20407.11\\system.text.encoding.codepages.5.0.0-preview.8.20407.11.nupkg.sha512"
+  ],
+  "logs": []
+}

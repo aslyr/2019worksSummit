@@ -1,0 +1,142 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WpfApp1/1.0.0": {
+        "dependencies": {
+          "Syncfusion.XlsIO.Net.Core": "18.2.0.57",
+          "System.Text.Encoding.CodePages": "5.0.0-preview.8.20407.11"
+        },
+        "runtime": {
+          "WpfApp1.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/5.0.0-preview.8.20407.11": {},
+      "NETStandard.Library/2.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "5.0.0-preview.8.20407.11"
+        }
+      },
+      "Syncfusion.Compression.Net.Core/18.2.0.57": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Compression.Portable.dll": {
+            "assemblyVersion": "18.2200.0.57",
+            "fileVersion": "18.2200.0.57"
+          }
+        }
+      },
+      "Syncfusion.Licensing/18.2.0.57": {
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "18.2.0.57",
+            "fileVersion": "18.2.0.57"
+          }
+        }
+      },
+      "Syncfusion.XlsIO.Net.Core/18.2.0.57": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0",
+          "Syncfusion.Compression.Net.Core": "18.2.0.57",
+          "Syncfusion.Licensing": "18.2.0.57"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.XlsIO.Portable.dll": {
+            "assemblyVersion": "18.2200.0.57",
+            "fileVersion": "18.2200.0.57"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/5.0.0-preview.8.20407.11": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.40711"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/5.0.0-preview.8.20407.11": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "5.0.0-preview.8.20407.11",
+          "System.Runtime.CompilerServices.Unsafe": "5.0.0-preview.8.20407.11"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.40711"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.40711"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/5.0.0-preview.8.20407.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r1yAhsxC6fvVkOwikgfC3T5m+kRjXbfLsHd8+p1EE9JTUqOkZPm3lzco2naZqMseBI8v/Ws0M/tGfBTe5Dj0ZQ==",
+      "path": "microsoft.netcore.platforms/5.0.0-preview.8.20407.11",
+      "hashPath": "microsoft.netcore.platforms.5.0.0-preview.8.20407.11.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "path": "netstandard.library/2.0.0",
+      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
+    },
+    "Syncfusion.Compression.Net.Core/18.2.0.57": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BkVTrLkg2m22ksESRxWo6RIeOrC3KKaushsz5UY4hF+594i6Baad2f4u4HWs8bB4cSPnVpVkKJ8C+bH7J5FBjg==",
+      "path": "syncfusion.compression.net.core/18.2.0.57",
+      "hashPath": "syncfusion.compression.net.core.18.2.0.57.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/18.2.0.57": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FLNvydR2jg9DtxgEhaLJaI/9lW7Be14HGr6X9el5GbUUqnUcQyxWERRx6RSeLesOl/hBXsnaMuI6fcQYczQ6lw==",
+      "path": "syncfusion.licensing/18.2.0.57",
+      "hashPath": "syncfusion.licensing.18.2.0.57.nupkg.sha512"
+    },
+    "Syncfusion.XlsIO.Net.Core/18.2.0.57": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BNRwlqOR/vK0+ysuNlVKIQ/SpMapfcge0jKNga9UIoXiwuTSxREhgN7E8H/se7N7eA6/kx19FM53gWDeGxq+qw==",
+      "path": "syncfusion.xlsio.net.core/18.2.0.57",
+      "hashPath": "syncfusion.xlsio.net.core.18.2.0.57.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/5.0.0-preview.8.20407.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8aAEu1T6IQnzwcDwdPaaTha5lBBI2yefJqaThcmMl74829S+ZB3eFkEX7dTeZKZ/k3Lftr8AdprqI34gHPTm2w==",
+      "path": "system.runtime.compilerservices.unsafe/5.0.0-preview.8.20407.11",
+      "hashPath": "system.runtime.compilerservices.unsafe.5.0.0-preview.8.20407.11.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/5.0.0-preview.8.20407.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-385zLgykHSMUHc0B3gu9SNXH7wv5sO4TwtLxZI/3FMi32PxqZvOLTEPI8gaZZVVxJnfQKup4SXGvhEHiXbQkmA==",
+      "path": "system.text.encoding.codepages/5.0.0-preview.8.20407.11",
+      "hashPath": "system.text.encoding.codepages.5.0.0-preview.8.20407.11.nupkg.sha512"
+    }
+  }
+}
